@@ -1,0 +1,13 @@
+phyVenv/
+.vscode/
+.fake
+__pycache__/
+*.pyc
+*.DS_Store
+*.gif
+*.png
+ZadacaBertrand/images
+h1.py
+HorseRider.py
+pendulumInCircle.py
+RidHor.py
